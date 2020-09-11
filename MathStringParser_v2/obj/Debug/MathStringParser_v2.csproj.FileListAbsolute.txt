@@ -1,0 +1,6 @@
+C:\Maks\usedLibraries\MathStringParser_v2\bin\Debug\MathStringParser_v2.dll
+C:\Maks\usedLibraries\MathStringParser_v2\bin\Debug\MathStringParser_v2.pdb
+C:\Maks\usedLibraries\MathStringParser_v2\obj\Debug\MathStringParser_v2.csprojAssemblyReference.cache
+C:\Maks\usedLibraries\MathStringParser_v2\obj\Debug\MathStringParser_v2.csproj.CoreCompileInputs.cache
+C:\Maks\usedLibraries\MathStringParser_v2\obj\Debug\MathStringParser_v2.dll
+C:\Maks\usedLibraries\MathStringParser_v2\obj\Debug\MathStringParser_v2.pdb
