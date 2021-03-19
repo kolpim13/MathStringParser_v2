@@ -9,6 +9,7 @@ namespace MathStringParser_v2
     #region //class Cell
     public partial class Cell
     {
+        //asiudfhsdiufgsdiufhiudsfh
         #region //properties
         //значение ячейки
         public double Value { get; private set; }
